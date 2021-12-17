@@ -2,4 +2,4 @@
 * Create the page as per given design.
 * url("../job-assignment-task/src/images/ui design.png").
 * You can use your own creativity to add any or change any element you want in terms ofstyle
-* Live site link:  
+* Live site link: https://zealous-nightingale-6579b3.netlify.app/

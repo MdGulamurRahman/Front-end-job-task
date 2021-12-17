@@ -3,6 +3,8 @@ import './TaskForm.css'
 import { Button,Form } from 'react-bootstrap';
 import formLogo from '../../../images/form-logo (3).png';
 import companyLogo from '../../../images/company-logo (1).png'
+
+
 const TaskForm = () => {
     return (
             <div className='form-area overflow-hidden'>
@@ -10,12 +12,12 @@ const TaskForm = () => {
                 <div className='form-container d-flex justify-content-center align-items-center'>
                     <div className="form-box">
                     <div className='img-area'>
-                    <img className='logo-img ' src={formLogo} />
+                      <img className='logo-img ' src={formLogo} />
                     </div>
-                    <h2 className='mt-3 text-center text-1'>It's a delight to have you <br/>onboard</h2>
+                      <h2 className='mt-3 text-center text-1'>It's a delight to have you <br/>onboard</h2>
                     <div className='text-2 mt-4 mb-4'>
-                    <p>Help us know you better.<br/></p> 
-                    <p>(This is how we optimize Wobot as per your business needs)</p>
+                        <p>Help us know you better.<br/></p> 
+                        <p>(This is how we optimize Wobot as per your business needs)</p>
                     </div>
                     
                     {/* input field area */}

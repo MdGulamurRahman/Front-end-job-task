@@ -1,7 +1,6 @@
 import './App.css';
 import TaskForm from './Pages/Home/TaskForm/TaskForm';
 
-
 function App() {
   return (
     <div>
