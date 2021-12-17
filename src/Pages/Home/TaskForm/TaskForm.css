@@ -1,0 +1,68 @@
+.form-area{
+    background: #E5E5E5;
+    background-image: url('../../../images/bg-logo\ \(2\).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 10px;
+}
+.form-box{
+    margin-top: 93px;
+    margin-bottom: 197px;
+    width: 560px;
+    height: 611px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(157, 157, 157, 0.12);
+    border-radius: 15px;
+}
+.comLogo{
+    width: 160px;
+    height: 36.02px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.logo-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 51px;
+    height: 48px;
+}
+.img-area{
+      margin-top: 42.91px;
+}
+.text-1{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+}
+.text-2 p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 6px;
+    text-align: center;
+}
+.text-3{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+.form-field{
+    width: 368px ;
+    height: 37px;
+}
+.text-1 p{
+    line-height: 10px;
+}
+.text-clr{
+    color: black;
+}
+.text-4{
+    text-align: center;
+    margin-bottom: 57px;
+    color: #545454;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
